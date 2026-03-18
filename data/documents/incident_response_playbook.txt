@@ -1,0 +1,10 @@
+Incident Response Playbook
+
+Severity Classification
+Severity 1 incidents are critical outages affecting customer-facing production systems with no viable workaround. Severity 2 incidents materially degrade a production workflow but may have a temporary workaround. Severity 3 incidents are isolated issues with limited business impact.
+
+Escalation Rules
+For Severity 1 incidents, the on-call engineer must page the incident commander immediately and create a war room within 10 minutes of confirmation. Stakeholder updates must be posted every 30 minutes until the incident is mitigated.
+
+Post-Incident Review
+A post-incident review document must be published within three business days for all Severity 1 and Severity 2 incidents. The review must include root cause, customer impact, remediation owners, and target completion dates.
